@@ -40,3 +40,12 @@ Laboratorio Git
 - Solucionar conflictos para continuar con el merge
 
 <img src="evidencias/Ejercicio2Conflicts.png"/>
+
+
+### Pull Request and Code Review Simulation
+- Crear rama feature desde develop
+- Realizar cambios y pushear la rama feature al origin
+- Crear Pull request
+
+<img src="evidencias/Ejercicio3.png"/>
+<img src="evidencias/Ejercicio3PullRequest.png"/>
