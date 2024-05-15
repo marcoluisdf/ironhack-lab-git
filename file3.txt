@@ -1,0 +1,3 @@
+Pasos para clonar un repositorio
+- use el comando git clone
+
