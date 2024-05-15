@@ -3,6 +3,7 @@ Laboratorio Git
 
 ## 1. Branch Strategy Simulation
 - clone repositorio
+    - git clone git@github.com:marcoluisdf/ironhack-lab-git.git
 - crear archivo vacio
     - agregar archivo
     - agregar commit
@@ -11,3 +12,5 @@ Laboratorio Git
     - Agregar cambios
     - Commit cambios
     - Push origin
+
+<img src="evidencias/Ejercicio1TrunkDeveloment.png"/>
