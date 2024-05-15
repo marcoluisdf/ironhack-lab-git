@@ -1,3 +1,5 @@
 cambiando la linea 1
+cambiando lo que tiene la linea 
+1 y la linea 2 para generar conflicto
 algo en la primera linea
 algo en la segunda linea
