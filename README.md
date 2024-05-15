@@ -28,3 +28,15 @@ Laboratorio Git
 - hacer merge en main de la rama develop
 
 <img src="evidencias/Ejercicio1GitFlow.png"/>
+
+
+### Resolve conflicts
+
+- Crear 2 ramas features desde develop
+- En la rama1 modificar la linea 1 del archivo file2.txt
+- En la ramna2 modificar la linea 1 y 2 del archivo file2.txt, para generar conflicto en el merge
+- Desde develop dar merge a la rama 1
+- Desde develop dar merge a la rama 2
+- Solucionar conflictos para continuar con el merge
+
+<img src="evidencias/Ejercicio2Conflicts.png"/>
